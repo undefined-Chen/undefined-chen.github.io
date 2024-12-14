@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global Flight on </title>
+    <link>//localhost:1313/categories/global-flight/</link>
+    <description>Recent content in Global Flight on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Nov 2024 12:00:00 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/global-flight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Global Flight]#2 – Flying at the Foot of the Himalayas: Kathmandu to Delhi</title>
+      <link>//localhost:1313/post/2024-11-17/</link>
+      <pubDate>Sun, 17 Nov 2024 12:00:00 +0800</pubDate>
+      <guid>//localhost:1313/post/2024-11-17/</guid>
+      <description>&lt;p&gt;Welcome back, today we will travel from Kathmandu to Delhi, India. As the third-largest country in Asia, in 2023, India’s population surpassed China’s, becoming the largest in the world. India is not a country of a single ethnicity and culture; it is home to a multitude of ethnic groups, each with its own language and script. There are as many as 22 officially recognized languages in the constitution. According to Wikipedia:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Global Flight]#1 - Flying over the Roof of the World: Lhasa to Kathmandu</title>
+      <link>//localhost:1313/post/2024-10-12/</link>
+      <pubDate>Sat, 12 Oct 2024 22:08:37 +0800</pubDate>
+      <guid>//localhost:1313/post/2024-10-12/</guid>
+      <description>&lt;h1 id=&#34;write-at-the-front&#34;&gt;Write at the front&lt;/h1&gt;&#xA;&lt;p&gt;Although this blog post is the first in the series, the journey it describes is actually the third one. Why didn’t I write about the previous ones? Because I forgot (bruh).&lt;/p&gt;&#xA;&lt;h1 id=&#34;body-text&#34;&gt;Body text&lt;/h1&gt;&#xA;&lt;p&gt;Today we will take off from Lhasa, leaving China to fly to Kathmandu, the capital of Nepal. The word “Lhasa” means “holy land” or “Buddha’s land” in Tibetan.Lhasa has always been the political, economic, and cultural center of the entire Tibet region, and is also a sacred place for Tibetan Buddhism. It was officially established as a city in 1960 and designated as a national historical and cultural city in 1982.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
